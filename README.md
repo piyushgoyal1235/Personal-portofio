@@ -15,6 +15,7 @@ Links to online certifications and project details
 ###### HTML5 & CSS3 : For the structure and styling of the website
 ###### Bootstrap : For responsive design and prebuilt components
 ###### JavaScript : For interactivity and dynamic content
+###### React: For Building reusable UI components.
 ###### Google Fonts : For elegant typography
 
 # Sections
@@ -44,8 +45,11 @@ cd your-repo-name
 3. Open index.html in your preferred web browser:
 
 ```bash
-open index.html
-``` 
+npm install
+```
+```bash
+npm run dev
+```
 
 ## Usage
 You can use this project as a template for your own portfolio website. Feel free to customize it by updating the content in the HTML files and styling in the CSS files.
