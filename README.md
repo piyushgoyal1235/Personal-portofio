@@ -12,7 +12,7 @@ Integration with Google Analytics and Google Tag Manager
 Links to online certifications and project details
 
 # Technologies Used
-###### HTML5 & CSS3 : For the structure and styling of the website
+###### HTML5 & Tailwind CSS : For the structure and styling of the website
 ###### Bootstrap : For responsive design and prebuilt components
 ###### JavaScript : For interactivity and dynamic content
 ###### React: For Building reusable UI components.
@@ -52,5 +52,5 @@ npm run dev
 ```
 
 ## Usage
-You can use this project as a template for your own portfolio website. Feel free to customize it by updating the content in the HTML files and styling in the CSS files.
+You can use this project as a template for your own portfolio website. Feel free to customize it by updating the content in the  files and styling in the Tailwind CSS files.
 this is my github readme file please change it by adding technology like react and getform for form reaction
